@@ -1,1 +1,5 @@
-# git-demo
+* git-demo
+
+  on master step 0
+
+  modif //

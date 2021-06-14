@@ -1,7 +1,7 @@
 * git-demo
 
 
-modif 1
+modif master
 
 
   modif //

@@ -1,7 +1,22 @@
 * git-demo
 
 
+
 modif master
 
 
-  modif //
+ 
+* REX
+- Mot de passe en clair dans application.properties
+- data.sql qui est exécuté avant l'effet du create-table
+- git merge
+- Postgesql : classe User → table user : user mot clé réservé !
+- Enum
+- Attributs d'une relation :
+  - juste pour filtrer
+  - gerer entité
+- localhost:8080/swagger-ui → localhost:8080/swagger-ui/
+- CORS : utiliser le répertoire resources/static pour servir le javascript
+
+
+
